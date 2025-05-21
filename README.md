@@ -10,8 +10,8 @@ Vrinda store want to create an annual sales report for 2022, So that , Vrinda  c
 6) Relation between age and gender based on number of orders.
 7) Which chennal is  contributing  to maximum Sales. 
 8) Higest selling category.
-## Dataset Used
-
+## Dataset used
+- <a href="https://github.com/Mahe2921/Vrinda-Store-Annual-Reports/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 ## Project Insight
 1) Women are more likely to buy  compare to Men.
 2) Maharashtra, Karnataka, and Uttar Pradesh, are the top 3 State.
